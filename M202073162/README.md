@@ -1,3 +1,5 @@
+姓名：严伟杰 
+学号：M202073162
 |论文标题|出处|
 |:---:|:---:|
 |LIPA: A Learning-based Indexing and Prefetching Approach for Data Deduplication |MSST 19|
