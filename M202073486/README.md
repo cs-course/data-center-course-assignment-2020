@@ -1,6 +1,4 @@
-姓名：郑永昌 
-
-学号：M202073486
+姓名：郑永昌    学号：M202073486
 |论文标题|出处|
 |:---:|:---:|
 |Wukong: A Scalable and Locality-EnhancedFramework for Serverless Parallel Computing |ACM SoCC '20|
