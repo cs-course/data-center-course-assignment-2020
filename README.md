@@ -31,7 +31,7 @@
 
 ## 电子版
 
-在github上发起pull![pull](./pull-request.png?raw=true)，或者直接fork![fork](./fork.png?raw=true)后，本地完成更新、提交、推送，给我Merge。
+在github上发起pull，或者直接fork后，本地完成更新、提交、推送，给我Merge。
 
 ## 纸质版
 
